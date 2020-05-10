@@ -1,0 +1,20 @@
+Metadata-Version: 1.1
+Name: ml-automated-123
+Version: 1.0
+Summary: Automated machine learning
+Home-page: https://github.com/noahweber1/ml_automated_123
+Author: Noah Weber
+Author-email: noahweber53@ygmail.com
+License: UNKNOWN
+Download-URL: https://github.com/noahweber1/ml_automated_123
+Description: "# ml_automation" 
+        "# ml_automated_123" 
+        
+Keywords: Auto_ML
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Scientific/Engineering :: Mathematics
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
